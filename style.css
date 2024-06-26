@@ -1,0 +1,36 @@
+/* styles.css */
+body {
+    background-color: lightblue;
+}
+table {
+    background-color: blue;
+  }
+.row-1 {
+    background-color: rgb(229, 95, 17);
+    text-align:"center";
+}
+
+.row-2 {
+    background-color:green;
+    text-align:"center";
+}
+.row-3 {
+    background-color:green;
+    text-align:"center";
+}
+.row-4 {
+    background-color:green;
+    text-align:"center";
+}
+.row-5 {
+    background-color:green;
+    text-align:"center";
+    
+}
+.row-6 {
+    background-color:green;
+    text-align:"center";
+}
+table td {
+    align-items: ;
+}
